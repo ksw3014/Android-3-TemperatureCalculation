@@ -1,4 +1,4 @@
-package ian.com.temperaturecalculate;
+package ian.com.temperaturecalculation;
 
 import android.content.Context;
 

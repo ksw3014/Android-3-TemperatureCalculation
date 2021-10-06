@@ -7,7 +7,7 @@ android {
     buildToolsVersion "30.0.3"
 
     defaultConfig {
-        applicationId "ian.com.temperaturecalculate"
+        applicationId "ian.com.temperaturecalculation"
         minSdkVersion 30
         targetSdkVersion 31
         versionCode 1
